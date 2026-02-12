@@ -45,5 +45,4 @@ This dashboard helps HR teams make informed decisions related to employee retent
 
 ---
 
-## 📂 Project File
-- HR NEW Dashboard.pbix
+
